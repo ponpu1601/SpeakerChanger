@@ -1,0 +1,11 @@
+C:\Users\ponpu1601\Documents\Visual Studio 2017\Projects\SpeakerChanger\SpeakerChanger\bin\Release\SpeakerChanger.exe.config
+C:\Users\ponpu1601\Documents\Visual Studio 2017\Projects\SpeakerChanger\SpeakerChanger\bin\Release\SpeakerChanger.exe
+C:\Users\ponpu1601\Documents\Visual Studio 2017\Projects\SpeakerChanger\SpeakerChanger\bin\Release\SpeakerChanger.pdb
+C:\Users\ponpu1601\Documents\Visual Studio 2017\Projects\SpeakerChanger\SpeakerChanger\bin\Release\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\ponpu1601\Documents\Visual Studio 2017\Projects\SpeakerChanger\SpeakerChanger\bin\Release\AudioSwitcher.AudioApi.dll
+C:\Users\ponpu1601\Documents\Visual Studio 2017\Projects\SpeakerChanger\SpeakerChanger\obj\Release\SpeakerChanger.csprojResolveAssemblyReference.cache
+C:\Users\ponpu1601\Documents\Visual Studio 2017\Projects\SpeakerChanger\SpeakerChanger\obj\Release\SpeakerChanger.MainForm.resources
+C:\Users\ponpu1601\Documents\Visual Studio 2017\Projects\SpeakerChanger\SpeakerChanger\obj\Release\SpeakerChanger.Properties.Resources.resources
+C:\Users\ponpu1601\Documents\Visual Studio 2017\Projects\SpeakerChanger\SpeakerChanger\obj\Release\SpeakerChanger.csproj.GenerateResource.Cache
+C:\Users\ponpu1601\Documents\Visual Studio 2017\Projects\SpeakerChanger\SpeakerChanger\obj\Release\SpeakerChanger.exe
+C:\Users\ponpu1601\Documents\Visual Studio 2017\Projects\SpeakerChanger\SpeakerChanger\obj\Release\SpeakerChanger.pdb
