@@ -58,9 +58,12 @@ namespace SpeakerChanger
         {
             return (ClickedItemName==Dev.Name);
         }
-        
-        private void ChangerIcon_Click(object sender, EventArgs e)
+
+        private void ChangerIcon_Click(object sender, MouseEventArgs e)
         {
+            if (e.Button == MouseButtons.Right)
+                return;
+
             var nowDev = AC.GetDefaultDevice(DeviceType.Playback, Role.Console);
 
             foreach (var dev in CADs)

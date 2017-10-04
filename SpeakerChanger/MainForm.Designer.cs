@@ -40,14 +40,14 @@
             this.ChangerIcon.Icon = ((System.Drawing.Icon)(resources.GetObject("ChangerIcon.Icon")));
             this.ChangerIcon.Text = "音声出力変更";
             this.ChangerIcon.Visible = true;
-            this.ChangerIcon.Click += new System.EventHandler(this.ChangerIcon_Click);
+            this.ChangerIcon.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ChangerIcon_Click);
             // 
             // ChangerContextMenu
             // 
             this.ChangerContextMenu.Name = "contextMenuStrip1";
             this.ChangerContextMenu.ShowCheckMargin = true;
             this.ChangerContextMenu.ShowImageMargin = false;
-            this.ChangerContextMenu.Size = new System.Drawing.Size(153, 26);
+            this.ChangerContextMenu.Size = new System.Drawing.Size(61, 4);
             this.ChangerContextMenu.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.Item_Click);
             // 
             // MainForm

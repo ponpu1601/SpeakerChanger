@@ -9,3 +9,15 @@ c:\users\ponpu1601\documents\visual studio 2017\Projects\SpeakerChanger\SpeakerC
 c:\users\ponpu1601\documents\visual studio 2017\Projects\SpeakerChanger\SpeakerChanger\obj\Debug\SpeakerChanger.csproj.GenerateResource.Cache
 c:\users\ponpu1601\documents\visual studio 2017\Projects\SpeakerChanger\SpeakerChanger\obj\Debug\SpeakerChanger.exe
 c:\users\ponpu1601\documents\visual studio 2017\Projects\SpeakerChanger\SpeakerChanger\obj\Debug\SpeakerChanger.pdb
+E:\GitReps\SpeakerChanger\SpeakerChanger\bin\Debug\SpeakerChanger.exe.config
+E:\GitReps\SpeakerChanger\SpeakerChanger\bin\Debug\SpeakerChanger.exe
+E:\GitReps\SpeakerChanger\SpeakerChanger\bin\Debug\SpeakerChanger.pdb
+E:\GitReps\SpeakerChanger\SpeakerChanger\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+E:\GitReps\SpeakerChanger\SpeakerChanger\bin\Debug\AudioSwitcher.AudioApi.dll
+E:\GitReps\SpeakerChanger\SpeakerChanger\obj\Debug\SpeakerChanger.csprojResolveAssemblyReference.cache
+E:\GitReps\SpeakerChanger\SpeakerChanger\obj\Debug\SpeakerChanger.MainForm.resources
+E:\GitReps\SpeakerChanger\SpeakerChanger\obj\Debug\SpeakerChanger.Properties.Resources.resources
+E:\GitReps\SpeakerChanger\SpeakerChanger\obj\Debug\SpeakerChanger.csproj.GenerateResource.Cache
+E:\GitReps\SpeakerChanger\SpeakerChanger\obj\Debug\SpeakerChanger.csproj.CoreCompileInputs.cache
+E:\GitReps\SpeakerChanger\SpeakerChanger\obj\Debug\SpeakerChanger.exe
+E:\GitReps\SpeakerChanger\SpeakerChanger\obj\Debug\SpeakerChanger.pdb
